@@ -1,5 +1,8 @@
 #!/usr/bin/ruby
 
+require 'active_support/all'
+require 'cgi'
+
 # Hash:
 #   Метод, превращающий хэш в объект
 #   класса
@@ -15,6 +18,7 @@
 #   Метод, возвращающий хэш без тех
 #   ключей, которые были переданы как
 #   символы в аргументы этого метода
+#
 #   Метод, возвращающий строку (query
 #   string) из данного хэша:
 #   hash = {one: 1, two: 2, three: 3}
@@ -22,6 +26,7 @@
 #
 #   Метод, превращающий все ключи
 #   хэша в строковые объекты
+#
 # Array:
 #   Метод, возвращающий пустой хэш,
 #   если последний элемент массива не
@@ -40,9 +45,17 @@
 #   начиная с индекса, переданного в
 #   качестве аргумента
 
-require 'active_support/core_ext/hash'
-#require 'files/activesupport/lib/active_support/core_ext/hash'
-
 hash = HashWithIndifferentAccess.new
-p hash[:one] = 1
-p hash['one'] # => 1
+
+hash[:one] = 1
+hash['one'] # => 1
+hash[:two] = 2
+hash['two'] # => 2
+hash[:three] = 3
+hash['three'] # => 3
+
+hash = {one: 1, two: 2, three: 3}
+p hash.stringify_keys
+
+hash = { a: true, b: false, c: nil}
+p hash.except(:a,:c) # => { a: true, b: false}
