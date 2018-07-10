@@ -1,5 +1,5 @@
-#!/usr/local/bin/ruby
-
+# !/usr/local/bin/ruby
+#
 # Чтобы получить возможность сравнивать
 # объекты класса Point на основе их
 # расстояния от начала координат, в классе
@@ -16,21 +16,16 @@
 # сравнения. Это позволит вычислить такое
 # выражение:
 # Point.new(1,2) < Point.new(3,4) # => true
-
 class Point
   include Comparable
-  attr_accessor :x, :y
-  # constructor
-  def initialize x, y
+  attr_accessor :x,:y
+  def initialize x1, y
     @x = x
     @y = y
   end
 
-  def x=(arg)
-    @x = arg
-  end
-  def <=>(anOther)
-    if @x && @y <=> anOther.x && anOther.y ? true : false
+  def <=>(other)
+    @x && @y <=> other.x && other.y
   end
 
   def inspect
@@ -43,5 +38,5 @@ cord1 = Point.new(1,2)
 cord2 = Point.new(3,5)
 cord1.inspect
 cord2.inspect
-
-cord1 < cord2
+p cord1 < cord2
+p Point.new(1,2) < Point.new(3,5)
