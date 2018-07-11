@@ -20,13 +20,3 @@ end
 
 game = Bones.create
 game.greatings
-
-# first_number = ARGV[0].to_i
-# second_number = ARGV[1].to_i
-#
-# puts first_number + second_number
-#
-# A = ARGV[0].to_i
-# B = ARGV[1].to_i
-#
-# puts "#{A} + #{B} = #{A + B}"

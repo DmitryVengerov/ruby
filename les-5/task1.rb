@@ -98,6 +98,4 @@ end
 h = { "a" => 100, "b" => 200 }
 ary = [1,4,2,4,2,5,3,5,3,h]
 
-#p task1_ary(ary)
-#p task2_ary(1)
 task3_ary(ary,4)
