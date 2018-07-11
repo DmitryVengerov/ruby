@@ -11,6 +11,7 @@ module Bones
 
     def initialize
       @score     = 1
+      @acc_exit  = 0
       @user_rate = nil
       @comp_rate = nil
       @result    = nil
@@ -26,14 +27,22 @@ module Bones
 
     def menu
       puts "Did you wanna play in my game? [y/n]"
-      if gets.chomp == 'y'
+      case gets.chomp
+
+      when 'y'
         dialog
+
+      when 'n'
+        if @acc_exit == 0
+          puts 'Maybe you want write [y]?'
+          @acc_exit += 1
+          dialog
+        else
+          credits
+        end
+
       else
-        puts "Bye-bye sweet pie"
-        puts "Engine version    #{engine_version}"
-        puts "Validator version #{validator_version}"
-        puts "Bones version     #{Bones.version}"
-        puts "Createt by        #{Bones.author}"
+        credits
       end
     end
 
@@ -50,8 +59,8 @@ module Bones
       if valid? @user_rate
         puts "User put on #{@user_rate} "
         @comp_rate = drop_cubes
+        puts "Bones drop -> #{@comp_rate}"
         @win_stat = comparison? @user_rate, @comp_rate
-        p @win_stat
         next_step
       else
         puts 'You have error'
@@ -60,7 +69,6 @@ module Bones
 
 
     def next_step
-      p @user_rate
       if @result == 'success'
         @score =+ @user_rate
         puts "Your score #{@score}"
@@ -74,6 +82,14 @@ module Bones
       end
     end
 
+
+    def credits
+      puts "Bye-bye sweet pie"
+      puts "Engine version    #{engine_version}"
+      puts "Validator version #{validator_version}"
+      puts "Bones version     #{Bones.version}"
+      puts "Createt by        #{Bones.author}"
+    end
 
   end
 end

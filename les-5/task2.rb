@@ -1,4 +1,4 @@
-# !/usr/bin/ruby
+#!/usr/bin/ruby
 
 require_relative('game/main')
 
@@ -9,7 +9,7 @@ module Bones
   end
 
   def self.version
-      '1.0.0'
+      '1.0.6'
   end
 
   def self.author
