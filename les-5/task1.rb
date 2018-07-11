@@ -27,23 +27,14 @@ require 'cgi'
 #   Метод, превращающий все ключи
 #   хэша в строковые объекты
 #
-# Array:
-#   Метод, возвращающий пустой хэш,
-#   если последний элемент массива не
-#   является хэшем и последний
-#   элемент массива в обратном случае
-#
-#   Метод, принимающий один
-#   аргумент и возвращающий массив
-#   из него одного, если аргумент не
-#   является массивом. В обратном
-#   случае — возвращается аргумент
-#   без изменений
-#
-#   Метод, возвращающий последние
-#   несколько элементов массива,
-#   начиная с индекса, переданного в
-#   качестве аргумента
+
+#---HASH----------------------------
+
+def query_string(query_hash)
+  query_array = []
+  query_hash.each{|key, val| val ? query_array.push([key, val].join('=')) : nil}
+  query_string = query_array != [] ? query_array.join('&') : ''
+end
 
 hash = HashWithIndifferentAccess.new
 
@@ -55,7 +46,58 @@ hash[:three] = 3
 hash['three'] # => 3
 
 hash = {one: 1, two: 2, three: 3}
-p hash.stringify_keys
-
+# p hash.stringify_keys
 hash = { a: true, b: false, c: nil}
-p hash.except(:a,:c) # => { a: true, b: false}
+# p hash.except(:a,:c) # => { a: true, b: false}
+# p query_string({one: 1, two: 2, three: 3})
+# p hash.stringify_keys
+
+#---ARRAY---------------------------
+
+#   Метод, возвращающий пустой хэш,
+#   если последний элемент массива не
+#   является хэшем и последний
+#   элемент массива в обратном случае
+
+def task1_ary(arr)
+  if arr.last.class.to_s == 'Hash'
+    arr.last
+  else
+    Hash.new
+  end
+end
+
+# Метод, принимающий один
+# аргумент и возвращающий массив
+# из него одного, если аргумент не
+# является массивом. В обратном
+# случае — возвращается аргумент
+# без изменений
+
+def task2_ary(arg)
+  ary = Array.new
+  if arg.class.to_s != "Array"
+    return ary.push(arg)
+  end
+  return arg
+end
+
+#   Метод, возвращающий последние
+#   несколько элементов массива,
+#   начиная с индекса, переданного в
+#   качестве аргумента
+
+def task3_ary(array,index)
+  if index < array.size-1
+    for i in index..array.size-1
+      puts array[i]
+    end
+  end
+end
+
+h = { "a" => 100, "b" => 200 }
+ary = [1,4,2,4,2,5,3,5,3,h]
+
+#p task1_ary(ary)
+#p task2_ary(1)
+task3_ary(ary,4)
