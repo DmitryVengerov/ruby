@@ -60,4 +60,4 @@ p 'puni_puni'.dasherize
 
 =end
 
-p 'gg'
+p "fail"
