@@ -9,7 +9,7 @@ require "active_support/all"
 
 =end
 
-p 'Class'.constantize
+p 'Class'.pluralize
 
 =begin
 
@@ -19,7 +19,7 @@ p 'Class'.constantize
 
 =end
 
-p "hello".at(5)
+p "hello".str.remove('ll')
 
 =begin
 
@@ -30,7 +30,7 @@ p "hello".at(5)
 
 =end
 
-p 'Rise the sky'.at('Rise')
+p 'Rise the sky'.remove('Rise')
 
 =begin
 

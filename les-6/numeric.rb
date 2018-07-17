@@ -11,7 +11,8 @@ require "active_support/all"
 
 =end
 
-p 1.month.ago
+p 1.hour.ago.to_i
+p (Time.now + 2.minutes)
 
 
 =begin

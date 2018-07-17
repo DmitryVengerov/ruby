@@ -58,7 +58,7 @@ class Mothership
     end 
 
     # makes some magic in here
-    def compute
+    def self.compute
         acc = @_cl[@point]
         puts 'Coordinates received'
         puts '...'
@@ -74,19 +74,13 @@ end
 
 
 class Ship < Mothership
-    attr_reader :p, :y, :x
-    def initialize(p, y, x)
-        @p = point
-        @y = y
-        @x = x
-    end 
 
-    def jump
-        
-        compute(@p,@y,@x)
+    def self.jump
+        self.compute(@p,@y,@x)
     end 
 
 end
 
 millenium_falcon = Ship.new('Pluto', 35, 243)
 millenium_falcon.jump
+
