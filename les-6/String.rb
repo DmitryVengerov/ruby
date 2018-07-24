@@ -2,13 +2,14 @@
 
 require "active_support/all"
 
-=begin 
+=begin
 
     Метод, возвращающий константу с
     именем, что и значение строки
 
 =end
 
+p 'String'.constantize # right
 p 'Class'.pluralize
 
 =begin
@@ -40,7 +41,7 @@ p 'Rise the sky'.remove('Rise')
 
 =end
 
-p '   '.blank? 
+p '   '.blank?
 
 =begin
 
