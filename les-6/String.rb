@@ -61,4 +61,17 @@ p 'puni_puni'.dasherize
 
 =end
 
+class Application
+  include ActiveSupport::Configurable
+
+  # def configure
+  #   yield config
+  # end
+
+end
+
+app = Application.new
+app.config[:admin] = true
+app.conc
+
 p "fail"

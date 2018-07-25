@@ -19,8 +19,7 @@ class Mothership
 end
 
 
-
 cloud9     = Mothership.new
 whitestart = Ship.new
 
-whitestart.jump{ cloud9}
+whitestart.jump{ cloud9 }
