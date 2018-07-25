@@ -22,8 +22,11 @@ class Ship
 
 end
 
+
+
+ship = Ship.new 100
 begin
-  Ship.new(100).warp_jump
+  ship.warp_jump
 rescue Ship::NotEnoughFuelError
   puts "Не могу искривить пространство, нужно больше топлива!"
 ensure
