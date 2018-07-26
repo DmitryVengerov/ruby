@@ -1,0 +1,125 @@
+# task :hello do
+# end
+
+# task :default do
+#   puts Time.now
+# end
+
+# task default: :time do
+# end
+
+# task :time do
+#   puts Time.now
+# end
+
+# taks time: [:time1, :time2]
+
+# task :time1 do
+# end
+
+# task :time2 do
+# end
+
+# namespace :app do
+
+#   desc <<-DESCRIPTION
+# Выводит на экран текущее время и день.
+
+#   * Время выводится в формате HH:MM:SS
+#   * День выводится полностью
+#   DESCRIPTION
+#   task hello: [ :time, :today ] do
+#     p "Hello, Ruby! Current time is: #{@time}. Today is: #{@day}"
+#   end
+
+#   task :time do
+#     @time = Time.now.strftime "%H:%M:%S"
+#   end
+#   task :today do
+#     @day = Time.now.strftime "%A"
+#   end
+# end
+
+namespace :app do
+
+  task :summator do
+    op1, op2 = ENV['op1'].to_i, ENV['op2'].to_i
+    p "Sum of #{op1} and #{op2} is: #{op1 + op2}"
+  end
+
+end
+
+
+
+# namespace :app do
+
+  # task :summator, [:op1, :op2] do |task, args|
+  #   p task
+  #   p args
+  #   p "Sum of #{args[:op1]} and #{args[:op2]} is: #{args[:op1].to_i + args[:op2].to_i}"
+  # end
+
+  # task :summator, [:op1, :op2] => [ :normalize ] do |task, args|
+  #   p "Sum of #{@op1} and #{@op2} is: #{@op1 + @op2}"
+  # end
+
+  # task :normalize, [:op1, :op2] do |task, args|
+  #   @op1 = args[:op1].to_i
+  #   @op2 = args[:op2].to_i
+  # end
+
+# end
+
+
+# task default: 'app:summator'
+# namespace :app do
+
+#   OP1 = 150
+#   OP2 = 100
+
+#   directory 'data'
+
+#   task :list do
+#     sh "ls -1"
+#   end
+
+#   task prepare: :data do
+#     if Dir['data/*.dat'].empty?
+#       p "[Rake]: Prepare operands..."
+
+#       sh "echo #{OP1} >> data/op1.dat"
+#       sh "echo #{OP2} >> data/op2.dat"
+
+#       p "[Rake]: Done"
+#     else
+#       p "[Rake]: Operands has already been prepared"
+#     end
+#   end
+
+#   desc <<-DESC
+# Sum operands from files
+#   * data/op1.dat
+#   * data/op2.dat
+#   DESC
+#   task summator: :prepare do
+#     p "Summator in progress..."
+#     op1 = File.open('data/op1.dat').read.to_i
+#     op2 = File.open('data/op2.dat').read.to_i
+#     sum = op1 + op2
+
+#     File.open('data/sum.res', 'w'){ |f| f.write(sum.to_s + "\n") }
+#     p "Sum of #{op1} and #{op2} is: #{sum}"
+#   end
+
+#   file 'data/sum.res' => [ 'data/op1.dat', 'data/op2.dat' ] do
+#     Rake::Task['app:summator'].invoke
+#   end
+
+#   task cached_summator: [ :prepare, 'data/sum.res' ] do
+#     puts File.open("data/sum.res").read
+#   end
+
+# end
+
+
+
