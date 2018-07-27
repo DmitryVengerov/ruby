@@ -17,7 +17,6 @@ module Samer
         next if user.name == current_user.name
         @similars[user.name] = distance(current_user, user)
       end
-
       @similars
 
     end
@@ -33,6 +32,7 @@ module Samer
       end
 
       1.fdiv 1 + Math.sqrt(distances.inject(0){ |sum, score| sum + score })
+
     end
 
     def current_user
