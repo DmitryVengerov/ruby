@@ -12,4 +12,4 @@ module Samer
 end
 
 #TODO Учитывать нулевые оценки
-# p Samer.find_for 'jake' # => ['same_user', coefficient]
+p Samer.find_for 'jake' # => ['same_user', coefficient]
