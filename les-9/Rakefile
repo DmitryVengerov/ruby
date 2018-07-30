@@ -1,0 +1,22 @@
+# namespace :app do
+#
+#   task :summator do
+#     op_1, op_2 = ENV['op1'].to_i, EMV['op2'].to_i
+#     p "Sum of #{op_1} and #{op_2} is #{op_1 + op_2}"
+#   end
+#
+# end
+
+
+namespace :app do
+
+  # task name: [:dep1, :dep2] do
+  #
+  # end
+
+  task :summator, [:op1, :op2] do |task, args|
+    # p task
+    # p args
+    p "Sum of #{:op1} and #{:op2} is: #{:op1.to_i + :op2.to_i}"
+  end
+end
