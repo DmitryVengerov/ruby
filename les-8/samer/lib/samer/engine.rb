@@ -18,8 +18,13 @@ module Samer
         @similars[user.name] = distance(current_user, user)
       end
       @similars
-
     end
+
+    def recommend similar_users
+      similar_users = @users.find{ |user| user.name == similar_users }
+      similar_users.genres.keys - @current_user.genres.keys
+    end
+
 
     private
 
