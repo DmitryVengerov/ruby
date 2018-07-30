@@ -1,4 +1,5 @@
 
+# requare_relative '../weather/lib/weather'
 
 # rake same:gem:install
 
@@ -40,10 +41,23 @@ namespace :samer do
     Обновляет версию гема
   DESCRIPTION
   task :version_update do
-    return ENV['MAJOR'].nil? || ENV['MINOR'].nil? || ENV['PATCH'].nil?
-    MAJOR, MINOR, PATCH = ENV['MAJOR'], ENV['MINOR'], ENV['PATCH']
-    sh "cd #{File.expand_path '../samer', __FILE__} && gem build samer.gemspec && gem install samer-#{
-    MAJOR + '.' + MINOR + '.' + 'PATCH'}.gem"
+    version = ENV['VERSION']
+    major = version.split('.')[0]
+    minor = version.split('.')[1]
+    patch = version.split('.')[2]
+
+    fike = File.open(PATH_TO_VERSION_FILE)
+    content = file.read
+
+    content.gsub /MAJOR = .1./,"MAJOR = '#{major}'"
+    content.gsub /MINOR = .1./,"MAJOR = '#{minor}'"
+    content.gsub /MAJOR = .1./,"PATCH = '#{patch}'"
+    file.close
+
+    # return ENV['MAJOR'].nil? || ENV['MINOR'].nil? || ENV['PATCH'].nil?
+    # MAJOR, MINOR, PATCH = ENV['MAJOR'], ENV['MINOR'], ENV['PATCH']
+    # sh "cd #{File.expand_path '../samer', __FILE__} && gem build samer.gemspec && gem install samer-#{
+    # MAJOR + '.' + MINOR + '.' + 'PATCH'}.gem"
   end
 
 end
@@ -53,6 +67,7 @@ namespace :app do
     Показывает погоду города Москва. Используя API ресурса openweathermap.org
   DESCRIPTION
   task :weather do
-    sh "cd #{File.expand_path '../weather/lib', __FILE__} && ruby weather.rb"
+    # sh "cd #{File.expand_path '../weather/lib', __FILE__} && ruby weather.rb"
+    Weather.show 'Moskow'
   end
 end
