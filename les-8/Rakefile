@@ -1,0 +1,58 @@
+
+
+# rake same:gem:install
+
+# namespace :samer do
+#   namespace :gem do
+#     task :build do
+#
+#     end
+#   end
+# end
+
+
+
+
+
+namespace :samer do
+  desc <<-DESCRIPTION
+    Создает гем samer
+  DESCRIPTION
+  task :build do
+    sh "cd #{File.expand_path '../samer', __FILE__} && gem build samer.gemspec"
+  end
+
+  desc <<-DESCRIPTION
+    Уставливает гем samer
+  DESCRIPTION
+  task :install do
+    sh "cd #{File.expand_path '../samer', __FILE__} && gem install samer-*.gem"
+  end
+
+  desc <<-DESCRIPTION
+    Создает гем samer и устанавливает его
+  DESCRIPTION
+  task :bld_list do
+    sh "cd #{File.expand_path '../samer', __FILE__} && gem build samer.gemspec && gem install samer-*.gem"
+  end
+
+  desc <<-DESCRIPTION
+    Обновляет версию гема
+  DESCRIPTION
+  task :version_update do
+    return ENV['MAJOR'].nil? || ENV['MINOR'].nil? || ENV['PATCH'].nil?
+    MAJOR, MINOR, PATCH = ENV['MAJOR'], ENV['MINOR'], ENV['PATCH']
+    sh "cd #{File.expand_path '../samer', __FILE__} && gem build samer.gemspec && gem install samer-#{
+    MAJOR + '.' + MINOR + '.' + 'PATCH'}.gem"
+  end
+
+end
+
+namespace :app do
+  desc <<-DESCRIPTION
+    Показывает погоду города Москва. Используя API ресурса openweathermap.org
+  DESCRIPTION
+  task :weather do
+    sh "cd #{File.expand_path '../weather/lib', __FILE__} && ruby weather.rb"
+  end
+end
