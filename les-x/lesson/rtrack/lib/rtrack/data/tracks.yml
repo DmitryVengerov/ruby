@@ -1,0 +1,5964 @@
+---
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14161540
+    Photo: []
+    ObjectShortName: "Спортивный комплекс МГАВМиБ"
+    SportZoneName: "Беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Выхино-Жулебино"
+    Address: "улица Академика Скрябина, дом 23, строение 2"
+    Email: 9704280@mail.ru
+    WebSite: mgavm.ru
+    HelpPhone: "(495) 377-72-84"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.793149082752855'
+    SportZoneLatitudeWGS84: '55.700597524334725'
+    SportZoneWorkingHours:
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247237
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247238
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247239
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247240
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247241
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247242
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14161540
+      is_deleted: 0
+      global_id: 247243
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14159342
+    Photo: []
+    ObjectShortName: "Легкоатлетическая тропа для самостоятельных занятий жителей"
+    SportZoneName: "Легкоатлетическая тропа"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Крюково"
+    Address: "город Зеленоград, корпус 2001"
+    Email: 
+    WebSite: 
+    HelpPhone: "(499) 734-00-40"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.16529398789321'
+    SportZoneLatitudeWGS84: '55.97654797246735'
+    SportZoneWorkingHours:
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233685
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233686
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233687
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233688
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233689
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233690
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14159342
+      is_deleted: 0
+      global_id: 233691
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14158660
+    Photo: []
+    ObjectShortName: "Центр Скандинавской ходьбы Нордик Фит"
+    SportZoneName: "Тропа здоровья"
+    AdmArea:
+    - "Центральный административный округ"
+    District:
+    - "район Якиманка"
+    Address: "улица Крымский Вал, дом 9, строение 11"
+    Email: office@nordicwalker.ru
+    WebSite: www.nordicwalker.ru/
+    HelpPhone: "(925) 504-62-21"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.60340679497765'
+    SportZoneLatitudeWGS84: '55.73140606989993'
+    SportZoneWorkingHours:
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229560
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229562
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229564
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229565
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229566
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229567
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14158660
+      is_deleted: 0
+      global_id: 229568
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+  halted_because: 
+  halted: false
+  workflow_state: good
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14152713
+    Photo:
+    - e9537d57-d6c8-492a-9a16-20879ca73669
+    ObjectShortName: "ГБОУ Школа №1788"
+    SportZoneName: "беговая дорожка"
+    AdmArea:
+    - "Новомосковский административный округ"
+    District:
+    - "поселение Внуковское"
+    Address: "улица Авиаконструктора Петлякова, дом 17"
+    Email: 1788@edu.mos.ru
+    WebSite: sch2066tn.mskobr.ru
+    HelpPhone: "(495) 827-02-66"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.307317843302165'
+    SportZoneLatitudeWGS84: '55.62074103492557'
+    SportZoneWorkingHours:
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218859
+      DayOfWeek: "понедельник"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218860
+      DayOfWeek: "вторник"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218861
+      DayOfWeek: "среда"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218862
+      DayOfWeek: "четверг"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218863
+      DayOfWeek: "пятница"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218864
+      DayOfWeek: "суббота"
+      Hours: 08:00-22:00
+    - global_object_id: 14152713
+      is_deleted: 0
+      global_id: 218865
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14160332
+    Photo: []
+    ObjectShortName: "ГБОУ гимназия №45"
+    SportZoneName: "дорожка беговая"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Академический район"
+    Address: "улица Шверника, дом 10, строение 1"
+    Email: slisowsk@mail.ru
+    WebSite: 102school.ru
+    HelpPhone: "(499) 126-93-44"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.58589023039643'
+    SportZoneLatitudeWGS84: '55.6918993133594'
+    SportZoneWorkingHours:
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239791
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239793
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239795
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239797
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239800
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239801
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14160332
+      is_deleted: 0
+      global_id: 239802
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906523
+    Photo:
+    - 561ca3ab-129a-4592-9c16-6a7b94e9b4d5
+    ObjectShortName: "ГБОУ СОШ №1738"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Выхино-Жулебино"
+    Address: "Лермонтовский проспект, дом 14, корпус 2"
+    Email: sch1738@yandex.ru
+    WebSite: sch1738uv.mskobr.ru
+    HelpPhone: "(495) 705-61-96"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.854805477579326'
+    SportZoneLatitudeWGS84: '55.697219416825995'
+    SportZoneWorkingHours:
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181941
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181942
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181943
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181944
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181945
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181946
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13906523
+      is_deleted: 0
+      global_id: 181947
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14166235
+    Photo: []
+    ObjectShortName: "Зона отдыха (Черкизовский пруд)"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Преображенское"
+    Address: "набережная Шитова, дом 2, сооружение 1"
+    Email: 
+    WebSite: vao.mos.ru/
+    HelpPhone: "(495) 777-28-03"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.73162259154329'
+    SportZoneLatitudeWGS84: '55.80041286693858'
+    SportZoneWorkingHours:
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276532
+      DayOfWeek: "понедельник"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276533
+      DayOfWeek: "вторник"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276534
+      DayOfWeek: "среда"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276535
+      DayOfWeek: "четверг"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276536
+      DayOfWeek: "пятница"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276537
+      DayOfWeek: "суббота"
+      Hours: 08:00-23:00
+    - global_object_id: 14166235
+      is_deleted: 0
+      global_id: 276538
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14162544
+    Photo: []
+    ObjectShortName: "ГБОУ СОШ №1307"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Западный административный округ"
+    District:
+    - "район Тропарёво-Никулино"
+    Address: "улица Академика Анохина, дом 48"
+    Email: sch1307@mail.ru
+    WebSite: schu1307.mskzapad.ru
+    HelpPhone: "(495) 438-67-00"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.469464281972634'
+    SportZoneLatitudeWGS84: '55.6532473173189'
+    SportZoneWorkingHours:
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253397
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253399
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253401
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253403
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253406
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253408
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14162544
+      is_deleted: 0
+      global_id: 253410
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900428
+    Photo:
+    - 0e54896a-afa8-45fc-9209-d350c199b0bb
+    ObjectShortName: "ГБОУ СОШ №629"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Чертаново Южное"
+    Address: "Варшавское шоссе, дом 156Б"
+    Email: 
+    WebSite: schu629.mscobr.ru
+    HelpPhone: "(495) 386-12-59"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.59590011268693'
+    SportZoneLatitudeWGS84: '55.58771076507715'
+    SportZoneWorkingHours:
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142055
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142056
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142057
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142058
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142059
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142060
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13900428
+      is_deleted: 0
+      global_id: 142061
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13912295
+    Photo:
+    - 112072c2-0d87-4320-939d-f4da44a26672
+    ObjectShortName: "ГБОУ СОШ №7"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Ломоносовский район"
+    Address: "улица Кравченко, дом 14, корпус 1"
+    Email: sch137ifo@mail.ru
+    WebSite: schz137uz.mskobr.ru
+    HelpPhone: "(499) 138-38-28"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.519398407326875'
+    SportZoneLatitudeWGS84: '55.67902486720258'
+    SportZoneWorkingHours:
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198118
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198119
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198120
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198121
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198122
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198123
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13912295
+      is_deleted: 0
+      global_id: 198124
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13899023
+    Photo:
+    - c2ffe9f4-eac2-4df5-a5a3-6f4bbf78a62b
+    ObjectShortName: "Музеон"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Центральный административный округ"
+    District:
+    - "район Якиманка"
+    Address: "улица Крымский Вал, дом 10"
+    Email: info@muzeon.ru
+    WebSite: www.muzeon.ru
+    HelpPhone: "(499) 238-33-96"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.60649501962204'
+    SportZoneLatitudeWGS84: '55.73707535088529'
+    SportZoneWorkingHours:
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132549
+      DayOfWeek: "понедельник"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132550
+      DayOfWeek: "вторник"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132551
+      DayOfWeek: "среда"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132552
+      DayOfWeek: "четверг"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132553
+      DayOfWeek: "пятница"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132554
+      DayOfWeek: "суббота"
+      Hours: 08:00-23:00
+    - global_object_id: 13899023
+      is_deleted: 0
+      global_id: 132555
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897037
+    Photo:
+    - '37217'
+    ObjectShortName: "ГБОУ СОШ №904"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Царицыно"
+    Address: "Кавказский бульвар, дом 16, корпус 2"
+    Email: 
+    WebSite: sch904.edusite.ru
+    HelpPhone: "(495) 325-41-11"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.664602063847205'
+    SportZoneLatitudeWGS84: '55.63382696608163'
+    SportZoneWorkingHours:
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118878
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118879
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118880
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118881
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118882
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118883
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13897037
+      is_deleted: 0
+      global_id: 118884
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906314
+    Photo:
+    - abf2148d-17fa-4ad0-adfb-f5e218ade09e
+    ObjectShortName: "ГБОУ «Гимназия №1528»"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Старое Крюково"
+    Address: "город Зеленоград, корпус 864"
+    Email: 
+    WebSite: gym1528zg.mskobr.ru
+    HelpPhone: "(499) 729-81-82"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.204841961351086'
+    SportZoneLatitudeWGS84: '55.97244220580454'
+    SportZoneWorkingHours:
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180478
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180479
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180480
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180481
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180482
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180483
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906314
+      is_deleted: 0
+      global_id: 180484
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "приспособлен для всех групп инвалидов"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897607
+    Photo:
+    - f6638bfa-762b-4015-9c5e-8b0c70fd1223
+    ObjectShortName: "ГБОУ СОШ №1242"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Бирюлёво Западное"
+    Address: "Востряковский проезд, дом 5Б"
+    Email: 
+    WebSite: sch1242u.mskobr.ru
+    HelpPhone: "(495) 383-84-56"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.642847778507544'
+    SportZoneLatitudeWGS84: '55.58428504302525'
+    SportZoneWorkingHours:
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122763
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122764
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122765
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122766
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122767
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122768
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13897607
+      is_deleted: 0
+      global_id: 122769
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13905885
+    Photo: []
+    ObjectShortName: "ГБОУ СОШ №1416"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Лианозово"
+    Address: "Новгородская улица, дом 12"
+    Email: 
+    WebSite: sch655.svao.mskobr.ru
+    HelpPhone: "(499) 909-29-01"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.581760310788944'
+    SportZoneLatitudeWGS84: '55.89584299024398'
+    SportZoneWorkingHours:
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177475
+      DayOfWeek: "понедельник"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177476
+      DayOfWeek: "вторник"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177477
+      DayOfWeek: "среда"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177478
+      DayOfWeek: "четверг"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177479
+      DayOfWeek: "пятница"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177480
+      DayOfWeek: "суббота"
+      Hours: 08:30-21:00
+    - global_object_id: 13905885
+      is_deleted: 0
+      global_id: 177481
+      DayOfWeek: "воскресенье"
+      Hours: 08:30-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907507
+    Photo:
+    - 5ac5e926-e831-4446-b70e-051996e17e0a
+    ObjectShortName: "ГБОУ СОШ №2087"
+    SportZoneName: "дорожка беговая-прогулочная"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Марьино"
+    Address: "улица Перерва, дом 36"
+    Email: 
+    WebSite: sch2087uv.mskobr.ru
+    HelpPhone: "(495) 348-33-61"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.735997264355504'
+    SportZoneLatitudeWGS84: '55.65081306740763'
+    SportZoneWorkingHours:
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187989
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187990
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187991
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187992
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187993
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187994
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907507
+      is_deleted: 0
+      global_id: 187995
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906516
+    Photo:
+    - f4a72ed2-8bc1-47cb-b4ac-7b5b3af9c0ab
+    ObjectShortName: "ГБОУ Лицей №1367"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "Рязанский район"
+    Address: "улица Васильцовский Стан, дом 6"
+    Email: 1367@bk.ru
+    WebSite: lyc1367uv.mskobr.ru
+    HelpPhone: "(499) 754-13-67"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.75214238786093'
+    SportZoneLatitudeWGS84: '55.714680379641635'
+    SportZoneWorkingHours:
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181892
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181893
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181894
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181895
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181896
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181897
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906516
+      is_deleted: 0
+      global_id: 181898
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906494
+    Photo:
+    - 65a945cc-2eae-4267-a812-8d0b12730c92
+    ObjectShortName: "ГБОУ СОШ №417"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Лефортово"
+    Address: "Красноказарменная улица, дом 3, корпус 1"
+    Email: school632@list.ru
+    WebSite: schuv632.mskobr.ru
+    HelpPhone: "(499) 267-76-55"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.689101125554664'
+    SportZoneLatitudeWGS84: '55.76204177258488'
+    SportZoneWorkingHours:
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181738
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181739
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181740
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181741
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181742
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181743
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906494
+      is_deleted: 0
+      global_id: 181744
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906520
+    Photo:
+    - 994b551f-2761-423a-bcb4-87905654a8d1
+    ObjectShortName: "ГБОУ лицей №1793"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Выхино-Жулебино"
+    Address: "Жулебинский бульвар, дом 38"
+    Email: 1793@edu.mos.ru
+    WebSite: lyc1793uv.mskobr.ru
+    HelpPhone: "(495) 704-00-31"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.84785685414986'
+    SportZoneLatitudeWGS84: '55.683919163963495'
+    SportZoneWorkingHours:
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181920
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181921
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181922
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181923
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181924
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181925
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13906520
+      is_deleted: 0
+      global_id: 181926
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906499
+    Photo:
+    - 76cf7bba-ac82-400d-9def-a29ee347e055
+    ObjectShortName: "ГАПОУ МОК им. В. Талалихина"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Печатники"
+    Address: "улица Полбина, дом 68, строение 1"
+    Email: school918@mail.ru
+    WebSite: schuv918.mskobr.ru
+    HelpPhone: "(495) 354-07-10"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.72245741095764'
+    SportZoneLatitudeWGS84: '55.67021782837141'
+    SportZoneWorkingHours:
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181773
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181774
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181775
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181776
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181777
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181778
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906499
+      is_deleted: 0
+      global_id: 181779
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906489
+    Photo:
+    - cebc8835-43cc-4c38-8121-8a6dd2e9eb2a
+    ObjectShortName: "ГБОУ СОШ №1256"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Печатники"
+    Address: "улица Полбина, дом 44"
+    Email: sch846@mail.ru
+    WebSite: schuv846.mskobr.ru
+    HelpPhone: "(495) 354-28-07"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.72704986889207'
+    SportZoneLatitudeWGS84: '55.68022756096005'
+    SportZoneWorkingHours:
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181703
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181704
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181705
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181706
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181707
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181708
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906489
+      is_deleted: 0
+      global_id: 181709
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906486
+    Photo:
+    - 71ab33d2-0bfb-4ec4-b79c-ef328b4f165d
+    ObjectShortName: "ГБОУ СОШ №773"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Печатники"
+    Address: "улица Полбина, дом 18"
+    Email: 
+    WebSite: sch773uv.mskobr.ru
+    HelpPhone: "(495) 353-33-86"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.72932181803936'
+    SportZoneLatitudeWGS84: '55.68817225075532'
+    SportZoneWorkingHours:
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181682
+      DayOfWeek: "понедельник"
+      Hours: 07:30-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181683
+      DayOfWeek: "вторник"
+      Hours: 07:30-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181684
+      DayOfWeek: "среда"
+      Hours: 07:30-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181685
+      DayOfWeek: "четверг"
+      Hours: 07:30-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181686
+      DayOfWeek: "пятница"
+      Hours: 07:30-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181687
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13906486
+      is_deleted: 0
+      global_id: 181688
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907342
+    Photo:
+    - 96ae7831-e073-44c2-b7c7-9ea856b339b4
+    ObjectShortName: "ГБОУ СОШ №1370"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "Алтуфьевский район"
+    Address: "Костромская улица, дом 14, корпус 1"
+    Email: schol164@yandex.ru
+    WebSite: co1446sv.mskobr.ru
+    HelpPhone: "(499) 902-22-27"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.59438419670271'
+    SportZoneLatitudeWGS84: '55.88364233167825'
+    SportZoneWorkingHours:
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186834
+      DayOfWeek: "понедельник"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186835
+      DayOfWeek: "вторник"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186836
+      DayOfWeek: "среда"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186837
+      DayOfWeek: "четверг"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186838
+      DayOfWeek: "пятница"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186839
+      DayOfWeek: "суббота"
+      Hours: 08:30-22:00
+    - global_object_id: 13907342
+      is_deleted: 0
+      global_id: 186840
+      DayOfWeek: "воскресенье"
+      Hours: 08:30-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907244
+    Photo:
+    - 8e66814f-92ff-41ba-8bb4-fec61be26dbb
+    ObjectShortName: "ГБОУ Лицей №1557"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Савёлки"
+    Address: "город Зеленоград, корпус 529"
+    Email: s1557@zou.ru
+    WebSite: lyczg1557.mskobr.ru
+    HelpPhone: "(499) 736-08-46"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.25551366349579'
+    SportZoneLatitudeWGS84: '55.99005082964216'
+    SportZoneWorkingHours:
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186155
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186156
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186157
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186158
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186159
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186160
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907244
+      is_deleted: 0
+      global_id: 186161
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906980
+    Photo:
+    - 9c522c0b-e9bb-407d-a044-eff6ca0a1e61
+    ObjectShortName: "ГБОУ ВПО МГПУ"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северный административный округ"
+    District:
+    - "район Коптево"
+    Address: "Большая Академическая улица, дом 77А"
+    Email: 
+    WebSite: 
+    HelpPhone: "(495) 482-59-41"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.55354440701535'
+    SportZoneLatitudeWGS84: '55.84458373222438'
+    SportZoneWorkingHours:
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184321
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184322
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184323
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184324
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184325
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184326
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906980
+      is_deleted: 0
+      global_id: 184327
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906551
+    Photo:
+    - 0eb1d6d2-cb58-4d49-ba3a-970f7b40e389
+    ObjectShortName: "ГБОУ Школа №1374"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "Ярославский район"
+    Address: "Федоскинская улица, дом 4"
+    Email: sch1017zao@yandex.ru
+    WebSite: sch1017.mskzapad.ru
+    HelpPhone: "(495) 732-98-74"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.70371745915656'
+    SportZoneLatitudeWGS84: '55.86878550830573'
+    SportZoneWorkingHours:
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182137
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182138
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182139
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182140
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182141
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182142
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906551
+      is_deleted: 0
+      global_id: 182143
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14150965
+    Photo: []
+    ObjectShortName: "Спортивный комплекс «Есенинский», ГБУ «Спортивная школа олимпийского
+      резерва № 64» Москомспорта"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Кузьминки"
+    Address: "Есенинский бульвар, дом 9, корпус 2"
+    Email: dvorec2003@mail.ru
+    WebSite: "сдюсшор64.рф"
+    HelpPhone: "(499) 175-54-12"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.78057889166739'
+    SportZoneLatitudeWGS84: '55.701197278897425'
+    SportZoneWorkingHours:
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218530
+      DayOfWeek: "понедельник"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218531
+      DayOfWeek: "вторник"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218532
+      DayOfWeek: "среда"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218533
+      DayOfWeek: "четверг"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218534
+      DayOfWeek: "пятница"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218535
+      DayOfWeek: "суббота"
+      Hours: 08:00-22:00
+    - global_object_id: 14150965
+      is_deleted: 0
+      global_id: 218536
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906343
+    Photo:
+    - 2c8aa7be-d800-4e7c-b448-8eed59d4dea3
+    ObjectShortName: "ГБОУ Школа №15"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "район Черёмушки"
+    Address: "Перекопская улица, дом 28"
+    Email: shc1115@mosuzedu.ru
+    WebSite: shc1115.mosuzedu.ru
+    HelpPhone: "(495) 332-64-22"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.5703845221377'
+    SportZoneLatitudeWGS84: '55.6615794726533'
+    SportZoneWorkingHours:
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180681
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180682
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180683
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180684
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180685
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180686
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906343
+      is_deleted: 0
+      global_id: 180687
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14023245
+    Photo:
+    - 21ffe5c5-c66b-4b7e-90f6-a90604744b72
+    ObjectShortName: "ГБОУ ЦДОД «Черкизовский парк»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Преображенское"
+    Address: "Большая Черкизовская улица, дом 21, строение 1"
+    Email: gou-dchp@yandex.ru
+    WebSite: chpark.dop.mskobr.ru
+    HelpPhone: "(499) 780-25-41"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.620124'
+    SportZoneLatitudeWGS84: '55.754038'
+    SportZoneWorkingHours:
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212181
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212182
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212183
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212184
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212185
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212186
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14023245
+      is_deleted: 0
+      global_id: 212187
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14023339
+    Photo:
+    - 0a336310-5b38-4f9a-8dbd-5630b9e9e6a3
+    ObjectShortName: "ГБОУ СОШ №485"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "Южнопортовый район"
+    Address: 3-й Кожуховский проезд, дом 3А
+    Email: school485@mail.ru
+    WebSite: schuv485.mskobr.ru
+    HelpPhone: "(495) 710-19-94"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.67505494707241'
+    SportZoneLatitudeWGS84: '55.70783751225106'
+    SportZoneWorkingHours:
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212839
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212840
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212841
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212842
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212843
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212844
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14023339
+      is_deleted: 0
+      global_id: 212845
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906233
+    Photo:
+    - da984dc8-d075-4502-9a1a-806a0f71d36e
+    ObjectShortName: "ГБОУ Гимназия №625"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Академический район"
+    Address: "улица Шверника, дом 17, корпус 2"
+    Email: gimnaziya_625@mail.ru
+    WebSite: gymg625.mskobr.ru
+    HelpPhone: "(499) 126-48-20"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.59303038021791'
+    SportZoneLatitudeWGS84: '55.69196191424267'
+    SportZoneWorkingHours:
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179911
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179912
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179913
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179914
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179915
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179916
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906233
+      is_deleted: 0
+      global_id: 179917
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13898085
+    Photo: []
+    ObjectShortName: "Лесопарк «Кусково», ПК № 80"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Вешняки"
+    Address: "улица Юности, дом 2, строение 1"
+    Email: ooptvao@gmail.com
+    WebSite: mosecovao.ru
+    HelpPhone: "(495) 367-36-81"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.796550531631816'
+    SportZoneLatitudeWGS84: '55.736013035339234'
+    SportZoneWorkingHours:
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126067
+      DayOfWeek: "понедельник"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126068
+      DayOfWeek: "вторник"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126069
+      DayOfWeek: "среда"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126070
+      DayOfWeek: "четверг"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126071
+      DayOfWeek: "пятница"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126072
+      DayOfWeek: "суббота"
+      Hours: 07:00-23:55
+    - global_object_id: 13898085
+      is_deleted: 0
+      global_id: 126073
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-23:55
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13913726
+    Photo:
+    - 750dc91f-046c-4c59-b8d1-db42534ac39d
+    ObjectShortName: "ГБОУ СПО ПТ №13"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "Алтуфьевский район"
+    Address: "Бибиревская улица, дом 6, корпус 1"
+    Email: 13@prof.educom.ru
+    WebSite: pk13.ru
+    HelpPhone: "(499) 901-87-81"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.598570606426584'
+    SportZoneLatitudeWGS84: '55.88068939516807'
+    SportZoneWorkingHours:
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198874
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198875
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198876
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198877
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198878
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198879
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13913726
+      is_deleted: 0
+      global_id: 198880
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13903398
+    Photo: []
+    ObjectShortName: "Парк «Северное Тушино»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Западный административный округ"
+    District:
+    - "район Северное Тушино"
+    Address: "улица Свободы, дом 56"
+    Email: info@mosparks.ru
+    WebSite: www.mosparks.ru
+    HelpPhone: "(495) 640-73-55"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.45228004100063'
+    SportZoneLatitudeWGS84: '55.86350814953319'
+    SportZoneWorkingHours:
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162565
+      DayOfWeek: "понедельник"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162566
+      DayOfWeek: "вторник"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162567
+      DayOfWeek: "среда"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162568
+      DayOfWeek: "четверг"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162569
+      DayOfWeek: "пятница"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162570
+      DayOfWeek: "суббота"
+      Hours: 07:00-00:00
+    - global_object_id: 13903398
+      is_deleted: 0
+      global_id: 162571
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-00:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13903339
+    Photo:
+    - f86f42a6-4bde-41db-b218-e8bf2a787fb2
+    ObjectShortName: "ГБУ «ЦСП «Крылатское» Москомспорта"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Восточный"
+    Address: "Западная улица, дом 16Б"
+    Email: krylatskoe@mossport.ru
+    WebSite: cspizmailovo.ru
+    HelpPhone: "(499) 780-15-82"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "да"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.879254845669124'
+    SportZoneLatitudeWGS84: '55.8155369051454'
+    SportZoneWorkingHours:
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162159
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162160
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162161
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162162
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162163
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162164
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13903339
+      is_deleted: 0
+      global_id: 162165
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "да"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900994
+    Photo: []
+    ObjectShortName: "Парк Горького"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Центральный административный округ"
+    District:
+    - "район Якиманка"
+    Address: "улица Крымский Вал, дом 9, строение 1"
+    Email: info@park-gorkogo.com
+    WebSite: www.park-gorkogo.com
+    HelpPhone: "(495) 995-00-20"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.59660494774813'
+    SportZoneLatitudeWGS84: '55.72821299541311'
+    SportZoneWorkingHours:
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145961
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145962
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145963
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145964
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145965
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145966
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13900994
+      is_deleted: 0
+      global_id: 145967
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900903
+    Photo:
+    - 6f671ef5-5a91-452e-b4af-30849a16e4d4
+    ObjectShortName: "Зона отдыха «Серебряно-Виноградные пруды»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Измайлово"
+    Address: "Измайловский проезд, дом 3, корпус 1"
+    Email: info@moscow-vernisage.com
+    WebSite: www.kremlin-izmailovo.com/
+    HelpPhone: "(495) 291-27-34"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.767338678984565'
+    SportZoneLatitudeWGS84: '55.794385251911436'
+    SportZoneWorkingHours:
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145324
+      DayOfWeek: "понедельник"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145325
+      DayOfWeek: "вторник"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145326
+      DayOfWeek: "среда"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145327
+      DayOfWeek: "четверг"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145328
+      DayOfWeek: "пятница"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145329
+      DayOfWeek: "суббота"
+      Hours: 08:00-23:00
+    - global_object_id: 13900903
+      is_deleted: 0
+      global_id: 145330
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13904202
+    Photo: []
+    ObjectShortName: "Парк «Сокольники»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Сокольники"
+    Address: "улица Сокольнический Вал, дом 1, строение 1"
+    Email: info@park.sokolniki.com
+    WebSite: park.sokolniki.com
+    HelpPhone: "(499) 393-92-22"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "да"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.66442888087272'
+    SportZoneLatitudeWGS84: '55.792759267057825'
+    SportZoneWorkingHours:
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168172
+      DayOfWeek: "понедельник"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168173
+      DayOfWeek: "вторник"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168174
+      DayOfWeek: "среда"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168175
+      DayOfWeek: "четверг"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168176
+      DayOfWeek: "пятница"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168177
+      DayOfWeek: "суббота"
+      Hours: 08:00-23:00
+    - global_object_id: 13904202
+      is_deleted: 0
+      global_id: 168178
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "приспособлен для лиц с нарушением ОДА"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906424
+    Photo:
+    - 8e4cb03d-f5c4-424d-96da-3a78d61e6749
+    ObjectShortName: "ГБОУ Лицей №1557"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Савёлки"
+    Address: "город Зеленоград, корпус 509"
+    Email: 
+    WebSite: lyczg1557.mskobr.ru
+    HelpPhone: "(499) 734-13-40"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.23172761731319'
+    SportZoneLatitudeWGS84: '55.99817853378848'
+    SportZoneWorkingHours:
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181248
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181249
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181250
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181251
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181252
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181253
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906424
+      is_deleted: 0
+      global_id: 181254
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906425
+    Photo:
+    - 348725b2-e2f8-42bf-969d-a0d24f876216
+    ObjectShortName: "ГБОУ Лицей №1557"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Савёлки"
+    Address: "город Зеленоград, корпус 509"
+    Email: 
+    WebSite: lyczg1557.mskobr.ru
+    HelpPhone: "(499) 734-13-40"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.23172761731319'
+    SportZoneLatitudeWGS84: '55.99817853378848'
+    SportZoneWorkingHours:
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181255
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181256
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181257
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181258
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181259
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181260
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906425
+      is_deleted: 0
+      global_id: 181261
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906414
+    Photo:
+    - 47af0edd-a4d3-4a28-976b-f70aea11b58a
+    ObjectShortName: "ГБОУ Школа №2009"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "район Южное Бутово"
+    Address: "Южнобутовская улица, дом 76, корпус 1"
+    Email: 
+    WebSite: sch1961.ou.mosuzedu.ru
+    HelpPhone: "(495) 715-80-54"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.519351554408544'
+    SportZoneLatitudeWGS84: '55.53499212660828'
+    SportZoneWorkingHours:
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181178
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181179
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181180
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181181
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181182
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181183
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906414
+      is_deleted: 0
+      global_id: 181184
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907381
+    Photo:
+    - 0ff37fe4-0f9c-4c6d-af4b-67fe8e1708c4
+    ObjectShortName: "ГБОУ Школа №852"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Силино"
+    Address: "город Зеленоград, корпус 1128"
+    Email: 
+    WebSite: s1050.zouo.ru
+    HelpPhone: "(499) 732-25-43"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.177968549416114'
+    SportZoneLatitudeWGS84: '55.99852786006092'
+    SportZoneWorkingHours:
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187107
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187108
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187109
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187110
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187111
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187112
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907381
+      is_deleted: 0
+      global_id: 187113
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907389
+    Photo:
+    - bb40ca43-3514-4d08-87aa-db6faf874ef5
+    ObjectShortName: "ГБОУ Школа №814"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Западный административный округ"
+    District:
+    - "район Очаково-Матвеевское"
+    Address: "Веерная улица, дом 38, корпус 2"
+    Email: 
+    WebSite: sch55.mskzapad.ru
+    HelpPhone: "(495) 441-74-11"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.48217239960088'
+    SportZoneLatitudeWGS84: '55.71471086007518'
+    SportZoneWorkingHours:
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187163
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187164
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187165
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187166
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187167
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187168
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907389
+      is_deleted: 0
+      global_id: 187169
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907058
+    Photo:
+    - b06deef9-9d31-43da-9e57-04acf38b9d40
+    ObjectShortName: "ГБОУ Школа №544"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Орехово-Борисово Южное"
+    Address: "Ясеневая улица, дом 8, корпус 2"
+    Email: 
+    WebSite: sch585u.mskobr.ru
+    HelpPhone: "(495) 399-48-28"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.719717895950396'
+    SportZoneLatitudeWGS84: '55.59896208778705'
+    SportZoneWorkingHours:
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184867
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184868
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184869
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184870
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184871
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184872
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13907058
+      is_deleted: 0
+      global_id: 184873
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13896711
+    Photo: []
+    ObjectShortName: "ГБОУ Государственная столичная гимназия"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Бибирево"
+    Address: "улица Корнейчука, дом 52А"
+    Email: 
+    WebSite: schsv332.mskobr.ru
+    HelpPhone: "(499) 206-90-74"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.624954456669165'
+    SportZoneLatitudeWGS84: '55.89477853326395'
+    SportZoneWorkingHours:
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116603
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116604
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116605
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116606
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116607
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116608
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13896711
+      is_deleted: 0
+      global_id: 116609
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907264
+    Photo: []
+    ObjectShortName: "ГБОУ Школа №17"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "район Коньково"
+    Address: "улица Введенского, дом 27А"
+    Email: school863@mosuzedu.ru
+    WebSite: school863.mosuzedu.ru
+    HelpPhone: "(495) 335-39-51"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.5346012292273'
+    SportZoneLatitudeWGS84: '55.63431239117518'
+    SportZoneWorkingHours:
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186295
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186296
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186297
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186298
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186299
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186300
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907264
+      is_deleted: 0
+      global_id: 186301
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906365
+    Photo:
+    - dc78af34-be19-47c7-b29f-3b4d36ef4fa3
+    ObjectShortName: "ГБОУ Школа №2025"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Западный административный округ"
+    District:
+    - "район Очаково-Матвеевское"
+    Address: "Озёрная улица, дом 27, корпус 2"
+    Email: 
+    WebSite: sch1117.mskzapad.ru
+    HelpPhone: "(495) 430-74-06"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.45485115736688'
+    SportZoneLatitudeWGS84: '55.674139672783355'
+    SportZoneWorkingHours:
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180835
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180836
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180837
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180838
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180839
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180840
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906365
+      is_deleted: 0
+      global_id: 180841
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897011
+    Photo: []
+    ObjectShortName: "ГБОУ Государственная столичная гимназия"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Бибирево"
+    Address: "улица Корнейчука, дом 37А"
+    Email: 
+    WebSite: schsv332.mskobr.ru
+    HelpPhone: "(499) 206-62-00"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.634577064588704'
+    SportZoneLatitudeWGS84: '55.89506241641157'
+    SportZoneWorkingHours:
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118696
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118697
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118698
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118699
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118700
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118701
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13897011
+      is_deleted: 0
+      global_id: 118702
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906349
+    Photo:
+    - d84b5478-c10b-4f26-ba20-a4f5614ff506
+    ObjectShortName: "ГБОУ Школа №1692"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Силино"
+    Address: "город Зеленоград, корпус 1017"
+    Email: 
+    WebSite: schzg1692.mskobr.ru
+    HelpPhone: "(499) 731-25-12"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.17528902261144'
+    SportZoneLatitudeWGS84: '55.98743279017837'
+    SportZoneWorkingHours:
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180723
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180724
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180725
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180726
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180727
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180728
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906349
+      is_deleted: 0
+      global_id: 180729
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13903347
+    Photo:
+    - 2fdd89e3-7154-42a1-bc83-bfb12c2f232f
+    ObjectShortName: "ГБОУ Школа №810"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Вешняки"
+    Address: "улица Красный Казанец, дом 3А"
+    Email: schkola810@mail.ru
+    WebSite: sch810.mskobr.ru
+    HelpPhone: "(499) 374-12-60"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.806432727755755'
+    SportZoneLatitudeWGS84: '55.72435342067399'
+    SportZoneWorkingHours:
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162215
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162216
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162217
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162218
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162219
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162220
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13903347
+      is_deleted: 0
+      global_id: 162221
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897018
+    Photo:
+    - a4364378-fa30-4e64-8592-b96a1c721312
+    ObjectShortName: "Парк «Гольяново»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Гольяново"
+    Address: "Алтайская улица, дом 4"
+    Email: izmpark@mail.ru
+    WebSite: izmailovsky-park.ru
+    HelpPhone: "(499) 166-61-19"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.799516037784564'
+    SportZoneLatitudeWGS84: '55.821384804341044'
+    SportZoneWorkingHours:
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118745
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118746
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118747
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118748
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118749
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118750
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13897018
+      is_deleted: 0
+      global_id: 118751
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13896804
+    Photo:
+    - f39332aa-6972-4b07-9495-901e54931607
+    ObjectShortName: "ГБОУ Гимназия №1539"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "Алексеевский район"
+    Address: "Новоалексеевская улица, дом 6"
+    Email: 
+    WebSite: sch308.svao.mskobr.ru
+    HelpPhone: "(495) 687-54-12"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.642111527579026'
+    SportZoneLatitudeWGS84: '55.806906585797016'
+    SportZoneWorkingHours:
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117247
+      DayOfWeek: "понедельник"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117248
+      DayOfWeek: "вторник"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117249
+      DayOfWeek: "среда"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117250
+      DayOfWeek: "четверг"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117251
+      DayOfWeek: "пятница"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117252
+      DayOfWeek: "суббота"
+      Hours: 08:30-20:00
+    - global_object_id: 13896804
+      is_deleted: 0
+      global_id: 117253
+      DayOfWeek: "воскресенье"
+      Hours: 08:30-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13902264
+    Photo:
+    - 11013695-fb2b-444d-b416-34e23795c222
+    ObjectShortName: "ФОК «Яуза», ГБУ «ЦФКиС СВАО г. Москвы»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "Бабушкинский район"
+    Address: "Олонецкий проезд, дом 5"
+    Email: sportsvao@mail.ru
+    WebSite: svaosport.ru
+    HelpPhone: "(499) 798-03-85"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.66468900921797'
+    SportZoneLatitudeWGS84: '55.88021711594958'
+    SportZoneWorkingHours:
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154669
+      DayOfWeek: "понедельник"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154670
+      DayOfWeek: "вторник"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154671
+      DayOfWeek: "среда"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154672
+      DayOfWeek: "четверг"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154673
+      DayOfWeek: "пятница"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154674
+      DayOfWeek: "суббота"
+      Hours: 07:00-23:00
+    - global_object_id: 13902264
+      is_deleted: 0
+      global_id: 154675
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "да"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13902476
+    Photo: []
+    ObjectShortName: "«Измайловский ПКиО»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Измайлово"
+    Address: "аллея Большого Круга, дом 7"
+    Email: izmpark@mail.ru
+    WebSite: izmailovsky-park.ru
+    HelpPhone: "(499) 166-61-19"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.75639218755259'
+    SportZoneLatitudeWGS84: '55.77181601998815'
+    SportZoneWorkingHours:
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156139
+      DayOfWeek: "понедельник"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156140
+      DayOfWeek: "вторник"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156141
+      DayOfWeek: "среда"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156142
+      DayOfWeek: "четверг"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156143
+      DayOfWeek: "пятница"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156144
+      DayOfWeek: "суббота"
+      Hours: 00:00-23:55
+    - global_object_id: 13902476
+      is_deleted: 0
+      global_id: 156145
+      DayOfWeek: "воскресенье"
+      Hours: 00:00-23:55
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "да"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13902432
+    Photo: []
+    ObjectShortName: "Парк «Таганский», «Стадион»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Центральный административный округ"
+    District:
+    - "Таганский район"
+    Address: "Таганская улица, дом 40-42"
+    Email: fok@parktaganskiy.com
+    WebSite: parktaganskiy.ru
+    HelpPhone: "(495) 632-64-20"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.667368120080056'
+    SportZoneLatitudeWGS84: '55.73789967383052'
+    SportZoneWorkingHours:
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155831
+      DayOfWeek: "понедельник"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155832
+      DayOfWeek: "вторник"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155833
+      DayOfWeek: "среда"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155834
+      DayOfWeek: "четверг"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155835
+      DayOfWeek: "пятница"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155836
+      DayOfWeek: "суббота"
+      Hours: 07:00-23:00
+    - global_object_id: 13902432
+      is_deleted: 0
+      global_id: 155837
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение газоразрядными лампами"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13896807
+    Photo: []
+    ObjectShortName: "Зона отдыха «Белое озеро»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Косино-Ухтомский"
+    Address: "Заозёрная улица, дом 19"
+    Email: 
+    WebSite: staroekosino.ru
+    HelpPhone: "(495) 291-27-34"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.8482128662846'
+    SportZoneLatitudeWGS84: '55.717818116851774'
+    SportZoneWorkingHours:
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117268
+      DayOfWeek: "понедельник"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117269
+      DayOfWeek: "вторник"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117270
+      DayOfWeek: "среда"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117271
+      DayOfWeek: "четверг"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117272
+      DayOfWeek: "пятница"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117273
+      DayOfWeek: "суббота"
+      Hours: 07:00-23:55
+    - global_object_id: 13896807
+      is_deleted: 0
+      global_id: 117274
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-23:55
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13896595
+    Photo:
+    - af630a66-78fb-4471-84c4-daaaa6d3f5ae
+    ObjectShortName: "ГБОУ Школа №950"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Отрадное"
+    Address: "Олонецкая улица, дом 13"
+    Email: 
+    WebSite: co264sv.mskobr.ru
+    HelpPhone: "(499) 202-17-40"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.61532091125567'
+    SportZoneLatitudeWGS84: '55.85209525783109'
+    SportZoneWorkingHours:
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116197
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116198
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116199
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116200
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116201
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116202
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13896595
+      is_deleted: 0
+      global_id: 116203
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900953
+    Photo: []
+    ObjectShortName: "Лыжная трасса 0,5 км и прогулочная дорожка"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Новокосино"
+    Address: "Салтыковская улица, дом 33, корпус 1"
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.875674236114385'
+    SportZoneLatitudeWGS84: '55.73971526159168'
+    SportZoneWorkingHours:
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145674
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145675
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145676
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145677
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145678
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145679
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13900953
+      is_deleted: 0
+      global_id: 145680
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13898433
+    Photo:
+    - 2bc3a325-8be2-4284-b160-7244acea3b06
+    ObjectShortName: "ГБОУ Школа №1251 имени генерала Шарля де Голля"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северный административный округ"
+    District:
+    - "район Сокол"
+    Address: "улица Сальвадора Альенде, дом 9"
+    Email: 
+    WebSite: schs1251.mskobr.ru
+    HelpPhone: "(499) 198-04-81"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.507487975338215'
+    SportZoneLatitudeWGS84: '55.794015559134245'
+    SportZoneWorkingHours:
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128468
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128469
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128470
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128471
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128472
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128473
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13898433
+      is_deleted: 0
+      global_id: 128474
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897120
+    Photo: []
+    ObjectShortName: "Лесопарковая зона «Лосиный остров»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Гольяново"
+    Address: "Курганская улица, дом 3"
+    Email: 
+    WebSite: elkisland.ru
+    HelpPhone: "(499) 268-60-16"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.79906399005016'
+    SportZoneLatitudeWGS84: '55.82875796575081'
+    SportZoneWorkingHours:
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119403
+      DayOfWeek: "понедельник"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119404
+      DayOfWeek: "вторник"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119405
+      DayOfWeek: "среда"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119406
+      DayOfWeek: "четверг"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119407
+      DayOfWeek: "пятница"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119408
+      DayOfWeek: "суббота"
+      Hours: 08:00-23:00
+    - global_object_id: 13897120
+      is_deleted: 0
+      global_id: 119409
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13911169
+    Photo:
+    - 7295d471-f57e-4d54-9ecc-5874eba06bb9
+    ObjectShortName: "ГБОУ СОШ №771"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северный административный округ"
+    District:
+    - "Дмитровский район"
+    Address: "улица Софьи Ковалевской, дом 8А"
+    Email: 
+    WebSite: souo-mos.ru
+    HelpPhone: "(495) 484-90-88"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.534363231137796'
+    SportZoneLatitudeWGS84: '55.88245295482674'
+    SportZoneWorkingHours:
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197152
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197153
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197154
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197155
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197156
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197157
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13911169
+      is_deleted: 0
+      global_id: 197158
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13899169
+    Photo:
+    - d588622a-df3a-4e5f-b938-c669e4e2fe60
+    ObjectShortName: "ГБОУ СОШ №1366"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Некрасовка"
+    Address: 1-я Вольская улица, дом 22, корпус 2
+    Email: info@school1366.ru
+    WebSite: schuvu1366.mskobr.ru
+    HelpPhone: "(499) 211-25-30"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.92641012212456'
+    SportZoneLatitudeWGS84: '55.6824845414984'
+    SportZoneWorkingHours:
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133564
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133565
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133566
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133567
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133568
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133569
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13899169
+      is_deleted: 0
+      global_id: 133570
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13908585
+    Photo: []
+    ObjectShortName: "Стадион «Москвич», ГБУ «Спортивная школа олимпийского резерва
+      «Москвич» Москомспорта"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Текстильщики"
+    Address: "Волгоградский проспект, дом 46/15, строение 1"
+    Email: orlov_dv@sport-moskvich.ru
+    WebSite: sport-moskvich.ru
+    HelpPhone: "(499) 178-65-38"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "да"
+    ObjectHasDressingRoom: "да"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "да"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.73620592703661'
+    SportZoneLatitudeWGS84: '55.70758152514614'
+    SportZoneWorkingHours:
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195255
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195256
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195257
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195258
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195259
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195260
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13908585
+      is_deleted: 0
+      global_id: 195261
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "да"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13899838
+    Photo: []
+    ObjectShortName: "Парк у прудов «Радуга»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Вешняки"
+    Address: "Вешняковская улица, дом 16"
+    Email: ppkio@mail.ru
+    WebSite: www.park-perovsky.ru
+    HelpPhone: "(495) 309-53-42"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.82830681302416'
+    SportZoneLatitudeWGS84: '55.73133270305576'
+    SportZoneWorkingHours:
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138170
+      DayOfWeek: "понедельник"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138171
+      DayOfWeek: "вторник"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138172
+      DayOfWeek: "среда"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138174
+      DayOfWeek: "четверг"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138176
+      DayOfWeek: "пятница"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138178
+      DayOfWeek: "суббота"
+      Hours: 07:00-22:00
+    - global_object_id: 13899838
+      is_deleted: 0
+      global_id: 138180
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13901347
+    Photo: []
+    ObjectShortName: "Парк «Перовский»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Перово"
+    Address: "улица Лазо, дом 7, строение 2"
+    Email: ppkio@mail.ru
+    WebSite: www.перовский-парк.рф
+    HelpPhone: "(495) 309-53-42"
+    ObjectHasEquipmentRental: "да"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "да"
+    ObjectHasToilet: "да"
+    ObjectHasWifi: "да"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.77460355422705'
+    SportZoneLatitudeWGS84: '55.73871282336226'
+    SportZoneWorkingHours:
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148411
+      DayOfWeek: "понедельник"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148412
+      DayOfWeek: "вторник"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148413
+      DayOfWeek: "среда"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148414
+      DayOfWeek: "четверг"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148415
+      DayOfWeek: "пятница"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148416
+      DayOfWeek: "суббота"
+      Hours: 07:00-23:00
+    - global_object_id: 13901347
+      is_deleted: 0
+      global_id: 148417
+      DayOfWeek: "воскресенье"
+      Hours: 07:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906261
+    Photo:
+    - d301b3d0-7660-40cb-b430-788be6ac7aff
+    ObjectShortName: "ГБОУ СОШ №2100"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северный административный округ"
+    District:
+    - "район Западное Дегунино"
+    Address: "Дегунинская улица, дом 18"
+    Email: ego@school660.ru
+    WebSite: sch-2100.yandex.ru
+    HelpPhone: "(499) 905-82-55"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.53430194836514'
+    SportZoneLatitudeWGS84: '55.86734156063868'
+    SportZoneWorkingHours:
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180107
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180108
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180109
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180110
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180111
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180112
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906261
+      is_deleted: 0
+      global_id: 180113
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897119
+    Photo: []
+    ObjectShortName: "Лесопарковая зона «Лосиный остров»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Богородское"
+    Address: "улица Богатырский Мост, дом 17А"
+    Email: 
+    WebSite: elkisland.ru
+    HelpPhone: "(499) 268-60-45"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.71609413476352'
+    SportZoneLatitudeWGS84: '55.822059707848524'
+    SportZoneWorkingHours:
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119396
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119397
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119398
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119399
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119400
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119401
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13897119
+      is_deleted: 0
+      global_id: 119402
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13897614
+    Photo:
+    - 7b488f93-ff2a-4969-a67f-583f0588b5c1
+    ObjectShortName: "ГБОУ Школа №544"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Орехово-Борисово Южное"
+    Address: "Каширское шоссе, дом 116, корпус 3"
+    Email: 
+    WebSite: sch544.edusite.ru
+    HelpPhone: "(495) 392-27-27"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.71384345384217'
+    SportZoneLatitudeWGS84: '55.60687354521666'
+    SportZoneWorkingHours:
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122812
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122813
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122814
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122815
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122816
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122817
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13897614
+      is_deleted: 0
+      global_id: 122818
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906286
+    Photo:
+    - 109d0177-4544-4296-bab2-e10594878816
+    ObjectShortName: "ГБОУ СОШ №208"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Северный административный округ"
+    District:
+    - "Бескудниковский район"
+    Address: "Бескудниковский переулок, дом 4А"
+    Email: school208@mail.ru
+    WebSite: schs208.mskobr.ru
+    HelpPhone: "(495) 488-45-85"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.55690497037949'
+    SportZoneLatitudeWGS84: '55.86287838016546'
+    SportZoneWorkingHours:
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180282
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180283
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180284
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180285
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180286
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180287
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 13906286
+      is_deleted: 0
+      global_id: 180288
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906245
+    Photo:
+    - b93906e4-2ee4-4e9e-98ba-1a53a3dc0b6c
+    ObjectShortName: "ГБПОУ ПК №39"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Академический район"
+    Address: "улица Дмитрия Ульянова, дом 35, строение 1"
+    Email: 39@prof.educom.ru
+    WebSite: www.college39.ru
+    HelpPhone: "(499) 125-31-62"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.58821926413665'
+    SportZoneLatitudeWGS84: '55.684483653271585'
+    SportZoneWorkingHours:
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 179995
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 179996
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 179997
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 179998
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 179999
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 180000
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906245
+      is_deleted: 0
+      global_id: 180001
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: "Возможны дополнительные занятия "
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906238
+    Photo:
+    - 50d0dbcb-09a4-491c-a269-e1f9ea89854c
+    ObjectShortName: "ГБОУ гимназия №1534"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Академический район"
+    Address: "улица Кедрова, дом 11"
+    Email: school1534@mail.ru
+    WebSite: gumuz1534.mskobr.ru
+    HelpPhone: "(499) 124-43-07"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.57430152190272'
+    SportZoneLatitudeWGS84: '55.68509907864728'
+    SportZoneWorkingHours:
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179946
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179947
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179948
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179949
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179950
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179951
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906238
+      is_deleted: 0
+      global_id: 179952
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907506
+    Photo:
+    - 1b93fd49-1fda-476b-9ec5-df6b3bc3f7dc
+    ObjectShortName: "ГАПОУ МОК им. В. Талалихина"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Печатники"
+    Address: "улица Полбина, дом 72, строение 1"
+    Email: 
+    WebSite: tk28.ru
+    HelpPhone: "(495) 354-90-29"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.72043725095833'
+    SportZoneLatitudeWGS84: '55.66774692190985'
+    SportZoneWorkingHours:
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187982
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187983
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187984
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187985
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187986
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187987
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907506
+      is_deleted: 0
+      global_id: 187988
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907286
+    Photo:
+    - 9510283f-736f-4777-a3d7-fa47f2338197
+    ObjectShortName: "ГБОУ Гимназия №625"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Западный административный округ"
+    District:
+    - "Академический район"
+    Address: "Новочерёмушкинская улица, дом 3А, корпус 1"
+    Email: school521@bk.ru
+    WebSite: school-521.ucoz.ru
+    HelpPhone: "(499) 126-04-48"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.58881186247296'
+    SportZoneLatitudeWGS84: '55.689527930322065'
+    SportZoneWorkingHours:
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186442
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186443
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186444
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186445
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186446
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186447
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907286
+      is_deleted: 0
+      global_id: 186448
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13905886
+    Photo:
+    - 40a73a31-1a98-4b35-866d-06f0ff5547b2
+    ObjectShortName: "ГБОУ СПО ЖК №52"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Центральный административный округ"
+    District:
+    - "Басманный район"
+    Address: "Михалковская улица, дом 52"
+    Email: 55@prof.educom.ru
+    WebSite: k52.profedu.ru
+    HelpPhone: "(495) 601-46-73"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.511117041796986'
+    SportZoneLatitudeWGS84: '55.83790882912388'
+    SportZoneWorkingHours:
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177482
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177483
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177484
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177485
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177486
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177487
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13905886
+      is_deleted: 0
+      global_id: 177488
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "частично приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906387
+    Photo:
+    - 7284c55b-c8c3-4aca-8c5e-ad08ce0b47bf
+    ObjectShortName: "ГБОУ Школа №1151"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Крюково"
+    Address: "город Зеленоград, корпус 1464"
+    Email: 
+    WebSite: schzg1149mskobr.ru
+    HelpPhone: "(499) 717-02-01"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.15575047400422'
+    SportZoneLatitudeWGS84: '55.987408461319916'
+    SportZoneWorkingHours:
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180989
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180990
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180991
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180992
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180993
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180994
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906387
+      is_deleted: 0
+      global_id: 180995
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906396
+    Photo:
+    - 82453ffa-c333-4765-a1bf-ff7c7e153417
+    ObjectShortName: "ГБОУ Школа №1150 имени Героя Советского Союза К.К. Рокоссовского"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Зеленоградский административный округ"
+    District:
+    - "район Крюково"
+    Address: "город Зеленоград, корпус 1632"
+    Email: 
+    WebSite: schzg1913.mskobr.ru
+    HelpPhone: "(499) 717-14-29"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.155303883240926'
+    SportZoneLatitudeWGS84: '55.972511142198194'
+    SportZoneWorkingHours:
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181052
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181053
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181054
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181055
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181056
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181057
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906396
+      is_deleted: 0
+      global_id: 181058
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14018957
+    Photo:
+    - 16e98c60-d6f7-4946-9cca-531a69fe3ab9
+    ObjectShortName: "ГБОУ Школа №879"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Чертаново Центральное"
+    Address: "улица Красного Маяка, дом 3Г"
+    Email: 
+    WebSite: cou879.mskobr.ru
+    HelpPhone: "(495) 389-27-36"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.59606495383634'
+    SportZoneLatitudeWGS84: '55.60986538137445'
+    SportZoneWorkingHours:
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211383
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211384
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211385
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211386
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211387
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211388
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14018957
+      is_deleted: 0
+      global_id: 211389
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: "платно"
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "приспособлен для всех групп инвалидов"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14018976
+    Photo:
+    - e5eee011-728a-4af7-9768-7c3839e785b4
+    ObjectShortName: "ГБОУ Школа №544"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Южный административный округ"
+    District:
+    - "район Орехово-Борисово Южное"
+    Address: "Шипиловский проезд, дом 73"
+    Email: 544@edu.mos.ru
+    WebSite: sch544u.mskobr.ru
+    HelpPhone: "(495) 398-88-54"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.71990569946302'
+    SportZoneLatitudeWGS84: '55.596219324303014'
+    SportZoneWorkingHours:
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211516
+      DayOfWeek: "понедельник"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211517
+      DayOfWeek: "вторник"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211518
+      DayOfWeek: "среда"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211519
+      DayOfWeek: "четверг"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211520
+      DayOfWeek: "пятница"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211521
+      DayOfWeek: "суббота"
+      Hours: 08:00-21:00
+    - global_object_id: 14018976
+      is_deleted: 0
+      global_id: 211522
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 14018707
+    Photo:
+    - a5433486-60f8-4c0a-b632-5ff5072e0a77
+    ObjectShortName: "ГБОУ СОШ №2092"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Люблино"
+    Address: "улица Марьинский Парк, дом 43"
+    Email: shkola1417@mail.ru
+    WebSite: sch2092uv.mskobr.ru
+    HelpPhone: "(495) 658-47-47"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.793573394986566'
+    SportZoneLatitudeWGS84: '55.67173606425842'
+    SportZoneWorkingHours:
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209633
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209634
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209635
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209636
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209637
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209638
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 14018707
+      is_deleted: 0
+      global_id: 209639
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13906528
+    Photo:
+    - 6e8b87b2-2844-48a8-8a71-8e4a840d3c86
+    ObjectShortName: "ГБПОУ «26 КАДР»"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "Южнопортовый район"
+    Address: 5-я Кожуховская улица, дом 26, строение 1
+    Email: 26@prof.educom.ru
+    WebSite: 26kadr.ru
+    HelpPhone: "(495) 679-47-21"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.6790677688747'
+    SportZoneLatitudeWGS84: '55.70493057557474'
+    SportZoneWorkingHours:
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181976
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181977
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181978
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181979
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181980
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181981
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13906528
+      is_deleted: 0
+      global_id: 181982
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907514
+    Photo:
+    - 5d198940-6f89-4a50-a7e4-cd12aeeb7039
+    ObjectShortName: "ГБОУ Школа №1363"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Выхино-Жулебино"
+    Address: "Рязанский проспект, дом 82, корпус 4"
+    Email: sch1363@mail.ru
+    WebSite: schu1363uv.mskobr.ru
+    HelpPhone: "(495) 376-61-44"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.823356168628784'
+    SportZoneLatitudeWGS84: '55.70780595544577'
+    SportZoneWorkingHours:
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188038
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188039
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188040
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188041
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188042
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188043
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13907514
+      is_deleted: 0
+      global_id: 188044
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13907484
+    Photo:
+    - 2b8e63b9-4060-495f-ba6a-5cb2b024f4a2
+    ObjectShortName: "ГБОУ СОШ №2088"
+    SportZoneName: "прогулочная, беговая дорожка"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Текстильщики"
+    Address: "Волжский бульвар, дом 6, корпус 3"
+    Email: school489@nm.ru
+    WebSite: sch2088uv.mskobr.ru
+    HelpPhone: "(499) 177-56-77"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "да"
+    SportZoneLongitudeWGS84: '37.73685291953603'
+    SportZoneLatitudeWGS84: '55.717506086843656'
+    SportZoneWorkingHours:
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187828
+      DayOfWeek: "понедельник"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187829
+      DayOfWeek: "вторник"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187830
+      DayOfWeek: "среда"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187831
+      DayOfWeek: "четверг"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187832
+      DayOfWeek: "пятница"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187833
+      DayOfWeek: "суббота"
+      Hours: 08:00-22:00
+    - global_object_id: 13907484
+      is_deleted: 0
+      global_id: 187834
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "смешанное освещение"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13904473
+    Photo:
+    - b18890e4-fb12-4755-9aea-f58ccca966ff
+    ObjectShortName: "ГБОУ Школа №1413"
+    SportZoneName: "прогулочная, беговая дорожка №1"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Бибирево"
+    Address: "Белозерская улица, дом 15"
+    Email: sch1413@yandex.ru
+    WebSite: sch1413sv.mskobr.ru
+    HelpPhone: "(499) 206-32-00"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.61796025355534'
+    SportZoneLatitudeWGS84: '55.8962182077688'
+    SportZoneWorkingHours:
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170069
+      DayOfWeek: "понедельник"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170070
+      DayOfWeek: "вторник"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170071
+      DayOfWeek: "среда"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170072
+      DayOfWeek: "четверг"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170073
+      DayOfWeek: "пятница"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170074
+      DayOfWeek: "суббота"
+      Hours: 08:30-20:00
+    - global_object_id: 13904473
+      is_deleted: 0
+      global_id: 170075
+      DayOfWeek: "воскресенье"
+      Hours: 08:30-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13899179
+    Photo:
+    - a65fba62-b30c-4dea-96d2-d6391ebf2ef4
+    ObjectShortName: "ГБОУ СОШ №1145"
+    SportZoneName: "прогулочная, беговая дорожка №1"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Марьино"
+    Address: "улица Маршала Голованова, дом 9"
+    Email: skl1145@mail.ru
+    WebSite: schuv1145.mskobr.ru
+    HelpPhone: "(495) 356-77-91"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.732832019461'
+    SportZoneLatitudeWGS84: '55.64888327032516'
+    SportZoneWorkingHours:
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133634
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133635
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133636
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133637
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133638
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133639
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13899179
+      is_deleted: 0
+      global_id: 133640
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "освещение лампами накаливания"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900951
+    Photo: []
+    ObjectShortName: "Салтыковский лесопарк"
+    SportZoneName: "прогулочная, беговая дорожка №1"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Косино-Ухтомский"
+    Address: "Лухмановская улица, дом 17"
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.89809455382673'
+    SportZoneLatitudeWGS84: '55.72312756402981'
+    SportZoneWorkingHours:
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145660
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145661
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145662
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145663
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145664
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145665
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13900951
+      is_deleted: 0
+      global_id: 145666
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13900952
+    Photo: []
+    ObjectShortName: "Салтыковский лесопарк"
+    SportZoneName: "прогулочная, беговая дорожка №2"
+    AdmArea:
+    - "Восточный административный округ"
+    District:
+    - "район Косино-Ухтомский"
+    Address: "Лухмановская улица, дом 17"
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.89809455382673'
+    SportZoneLatitudeWGS84: '55.72312756402981'
+    SportZoneWorkingHours:
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145667
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145668
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145669
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145670
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145671
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145672
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13900952
+      is_deleted: 0
+      global_id: 145673
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13908493
+    Photo:
+    - 8d11c175-2756-4d5d-bbc1-3e38a2c1582e
+    ObjectShortName: "ГБПОУ «26 КАДР»"
+    SportZoneName: "прогулочная, беговая дорожка №2"
+    AdmArea:
+    - "Юго-Восточный административный округ"
+    District:
+    - "район Люблино"
+    Address: "Цимлянская улица, дом 7, строение 1"
+    Email: 26@prof.educom.ru
+    WebSite: www.26kadr.ru
+    HelpPhone: "(495) 358-05-68"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.76849998318083'
+    SportZoneLatitudeWGS84: '55.66859011147952'
+    SportZoneWorkingHours:
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194611
+      DayOfWeek: "понедельник"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194612
+      DayOfWeek: "вторник"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194613
+      DayOfWeek: "среда"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194614
+      DayOfWeek: "четверг"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194615
+      DayOfWeek: "пятница"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194616
+      DayOfWeek: "суббота"
+      Hours: 08:00-20:00
+    - global_object_id: 13908493
+      is_deleted: 0
+      global_id: 194617
+      DayOfWeek: "воскресенье"
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
+- !ruby/object:RTrack::Track
+  track:
+    global_id: 13905874
+    Photo:
+    - 1e90ad17-b712-4159-915c-5dd49de684b4
+    ObjectShortName: "ГБОУ Школа №1413"
+    SportZoneName: "прогулочная, беговая дорожка №2"
+    AdmArea:
+    - "Северо-Восточный административный округ"
+    District:
+    - "район Бибирево"
+    Address: "Белозерская улица, дом 15"
+    Email: sch1413@yandex.ru
+    WebSite: sch1413sv.mskobr.ru
+    HelpPhone: "(499) 206-32-00"
+    ObjectHasEquipmentRental: "нет"
+    ObjectHasTechService: "нет"
+    ObjectHasDressingRoom: "нет"
+    ObjectHasEatery: "нет"
+    ObjectHasToilet: "нет"
+    ObjectHasWifi: "нет"
+    ObjectHasCashMachine: "нет"
+    ObjectHasFirstAidPost: "нет"
+    SportZoneLongitudeWGS84: '37.61740235408031'
+    SportZoneLatitudeWGS84: '55.896357882086946'
+    SportZoneWorkingHours:
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177398
+      DayOfWeek: "понедельник"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177399
+      DayOfWeek: "вторник"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177400
+      DayOfWeek: "среда"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177401
+      DayOfWeek: "четверг"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177402
+      DayOfWeek: "пятница"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177403
+      DayOfWeek: "суббота"
+      Hours: 08:30-20:00
+    - global_object_id: 13905874
+      is_deleted: 0
+      global_id: 177404
+      DayOfWeek: "воскресенье"
+      Hours: 08:30-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: "без дополнительного освещения"
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: "нет"
+    SportZoneDisabilityFriendly: "не приспособлен"
+    SportZoneService: []
